@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517496831642",
+    "project_id": "fir-android-ebfa6",
+    "storage_bucket": "fir-android-ebfa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517496831642:android:1671a10277ccda9edea923",
+        "android_client_info": {
+          "package_name": "com.example.ognistabaza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHNBXx5dEZRs5tEkPhlIW8G5NQAoVd_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
